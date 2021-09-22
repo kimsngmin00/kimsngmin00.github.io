@@ -26,19 +26,19 @@ div.top {
 }
 
 div.mid:hover {
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(212, 212, 212);
 }
 
 div.bottom:hover {
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(212, 212, 212);
 }
 
 span {
-    color: rgb(170, 170, 170);
+    color: rgb(0, 0, 0);
 }
 
 h3#support {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 a {
