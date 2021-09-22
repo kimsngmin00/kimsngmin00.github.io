@@ -1,24 +1,24 @@
 li.menu {
-    color: rgb(255, 211, 245);
-    background-color: rgb(143, 143, 143);
+    color: white;
+    background-color: rgb(230, 226, 203);
     display: inline-block;
     width: 20%;
 }
 
 li.menu:hover {
-    background-color: rgb(255, 211, 245);
+    background-color: rgb(235, 191, 223);
 }
 
 h1, h2, h3 {
-    background-color: rgb(255, 211, 245);
+    background-color: rgba(243, 198, 131, 0.952);
 }
 
 p {
-    background-color: rgb(231, 211, 227);
+    background-color: antiquewhite;
 }
 
 tr:hover {
-    background-color: rgb(143, 143, 143);
+    background-color: lightsalmon;
 }
 
 div.top {
