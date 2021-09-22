@@ -6,7 +6,7 @@ li.menu {
 }
 
 li.menu:hover {
-    background-color: rgb(143, 143, 143);
+    background-color: rgb(255, 211, 245);
 }
 
 h1, h2, h3 {
@@ -18,7 +18,7 @@ p {
 }
 
 tr:hover {
-    background-color: lightsalmon;
+    background-color: rgb(143, 143, 143);
 }
 
 div.top {
