@@ -10,11 +10,11 @@ li.menu:hover {
 }
 
 h1, h2, h3 {
-    background-color: rgba(243, 198, 131, 0.952);
+    background-color: rgb(255, 211, 245);
 }
 
 p {
-    background-color: antiquewhite;
+    background-color: rgb(231, 211, 227);
 }
 
 tr:hover {
