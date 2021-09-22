@@ -1,6 +1,6 @@
 li.menu {
     color: rgb(231, 211, 227);
-    background-color: rgb(143, 143, 143);
+    background-color: rgb(170, 170, 170);
     display: inline-block;
     width: 20%;
 }
@@ -26,23 +26,23 @@ div.top {
 }
 
 div.mid:hover {
-    background-color: rgb(224, 196, 164);
+    background-color: rgb(170, 170, 170);
 }
 
 div.bottom:hover {
-    background-color: rgb(202, 177, 159);
+    background-color: rgb(170, 170, 170);
 }
 
 span {
-    color: rgb(109, 54, 15);
+    color: rgb(170, 170, 170);
 }
 
 h3#support {
-    color: saddlebrown;
+    color: rgb(170, 170, 170);
 }
 
 a {
-    color: rgb(151, 63, 63);
+    color: rgb(170, 170, 170);
 }
 
 @media only screen and (max-width: 600px) {
