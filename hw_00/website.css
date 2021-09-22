@@ -1,0 +1,52 @@
+li.menu {
+    color: white;
+    background-color: rgb(230, 226, 203);
+    display: inline-block;
+    width: 20%;
+}
+
+li.menu:hover {
+    background-color: rgb(235, 191, 223);
+}
+
+h1, h2, h3 {
+    background-color: rgba(243, 198, 131, 0.952);
+}
+
+p {
+    background-color: antiquewhite;
+}
+
+tr:hover {
+    background-color: lightsalmon;
+}
+
+div.top {
+    text-align: center;
+}
+
+div.mid:hover {
+    background-color: rgb(224, 196, 164);
+}
+
+div.bottom:hover {
+    background-color: rgb(202, 177, 159);
+}
+
+span {
+    color: rgb(109, 54, 15);
+}
+
+h3#support {
+    color: saddlebrown;
+}
+
+a {
+    color: rgb(151, 63, 63);
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
